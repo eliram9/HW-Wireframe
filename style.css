@@ -1,0 +1,14 @@
+ *{
+
+}
+body{
+	background-color: #777;
+}
+header{
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	padding: 30px;
+	margin-left: 200px;
+	width: 750px;
+}
